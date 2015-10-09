@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+                android:gravity="center_vertical|center_horizontal">
+
+    <RadioGroup
+        android:id="@+id/reading_tab_radiogroup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical|center_horizontal">
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/reading_tab_start_normal"
+            android:button="@drawable/custom_start_radiobutton_style"
+            android:id="@+id/start_radioButton"
+            android:checked="true"/>
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/reading_tab_a_normal"
+            android:button="@drawable/custom_a_radiobutton_style"
+            android:id="@+id/a_radioButton"/>
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/reading_tab_b_normal"
+            android:button="@drawable/custom_b_radiobutton_style"
+            android:id="@+id/b_radioButton"/>
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/reading_tab_c_normal"
+            android:button="@drawable/custom_c_radiobutton_style"
+            android:id="@+id/c_radioButton"/>
+    </RadioGroup>
+</RelativeLayout>

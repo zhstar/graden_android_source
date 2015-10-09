@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<items>
+		<!--id:句子序号，一个句点为一句-->
+		<item id="1" sound="mp3/draw1.mp3" />
+		<item id="2" sound="mp3/draw2.mp3" />
+		<item id="3" sound="mp3/draw3.mp3" />
+		<item id="4" sound="mp3/draw4.mp3" />
+		<item id="5" sound="mp3/draw5.mp3" />
+		<item id="6" sound="mp3/draw6.mp3" />
+		<item id="7" sound="mp3/draw7.mp3" />
+		<item id="8" sound="mp3/draw8.mp3" />
+		<item id="9" sound="mp3/draw9.mp3" />
+		<item id="10" sound="mp3/draw10.mp3" />
+		<item id="11" sound="mp3/draw11.mp3" />
+		<item id="12" sound="mp3/draw12.mp3" />
+		<item id="13" sound="mp3/draw13.mp3" />
+		<item id="14" sound="mp3/draw14.mp3" />
+		<item id="15" sound="mp3/draw15.mp3" />
+		<item id="16" sound="mp3/draw16.mp3" />
+	</items>
+</data>

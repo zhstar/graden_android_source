@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<top name="unit4">Unit 4</top>
+	<mod title="本模块为课后同步练习，请在光盘配套的纸质手册上完成。&#x000A;"></mod>
+	<items id="1" title="Part A&#x000A;I. 将下列内容写在相应的图片下。" type="ROW" column="1">
+		<item id="1.">tomato</item>
+		<item id="2.">potato</item>
+		<item id="3.">green beans</item>
+		<item id="4.">carrot</item>
+		<item id="5.">horse</item>
+		<item id="6.">sheep</item>
+	</items>
+	<items id="2" title="II. 连词成句，注意大小写及标点符号。" type="ROW" column="1">
+		<item id="1.">Are these carrots?</item>
+		<item id="2.">They're tomatoes. But they're yellow!</item>
+		<item id="3.">You have a lot of animals!</item>
+		<item id="4.">What about those? Are they hens?</item>
+		<item id="5.">Those are tomatoes and green beans. 或 Those are green beans and tomatoes.</item>
+	</items>
+	<items id="3" title="Part B&#x000A;II. 中英文连线。" type="ROW" column="5">
+		<item id="1." >D</item>
+		<item id="2." >A</item>
+		<item id="3." >B</item>
+		<item id="4." >C</item>
+		<item id="5." >E</item>
+	</items>
+	<items id="4" title="III. 情境问答。" type="ROW" column="5">
+		<item id="1." >A</item>
+		<item id="2." >B</item>
+		<item id="3." >A</item>
+		<item id="4." >A</item>
+		<item id="5." >B</item>
+	</items>
+	<items id="5" title="Part C&#x000A;I. 找一找，圈一圈。" type="ROW" column="1">
+		<item id="1.">horse</item>
+		<item id="2.">potato</item>
+		<item id="3.">sheep</item>
+		<item id="4.">carrot</item>
+		<item id="5.">tomato</item>
+	</items>
+	<items id="6" title="II. 选择与图片相符的单词。" type="ROW"  column="5"> 
+		<item id="1.">A</item>
+		<item id="2.">A</item>
+		<item id="3.">B</item>
+		<item id="4.">B</item>
+		<item id="5.">A</item>
+	</items>
+	<items id="7" title="III. 判断对错，对的打“√”，错的打“×”。" type="ROW" column="4">
+		<item id="1." >×</item>
+		<item id="2." >√</item>
+		<item id="3." >×</item>
+		<item id="4." >√</item>
+	</items>
+</data>

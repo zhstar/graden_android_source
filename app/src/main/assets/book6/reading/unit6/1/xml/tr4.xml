@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<items>
+		<!--id:句子序号，一个句点为一句-->
+		<item id="1" sound="mp3/chant1.mp3" />
+		<item id="2" sound="mp3/chant2.mp3" />
+		<item id="3" sound="mp3/chant3.mp3" />
+		<item id="4" sound="mp3/chant4.mp3" />
+		<item id="5" sound="mp3/chant5.mp3" />
+		<item id="6" sound="mp3/chant6.mp3" />
+		<item id="7" sound="mp3/chant7.mp3" />
+		<item id="8" sound="mp3/chant8.mp3" />
+		<item id="9" sound="mp3/chant9.mp3" />
+		<item id="10" sound="mp3/chant10.mp3" />
+		<item id="11" sound="mp3/chant11.mp3" />
+		<item id="12" sound="mp3/chant12.mp3" />
+		<item id="13" sound="mp3/chant13.mp3" />
+		<item id="14" sound="mp3/chant14.mp3" />
+		<item id="15" sound="mp3/chant15.mp3" />
+		<item id="16" sound="mp3/chant16.mp3" />
+		<item id="17" sound="mp3/chant17.mp3" />
+		<item id="18" sound="mp3/chant18.mp3" />
+		<item id="19" sound="mp3/chant19.mp3" />
+		<item id="20" sound="mp3/chant20.mp3" />
+		<item id="21" sound="mp3/chant21.mp3" />
+		<item id="22" sound="mp3/chant22.mp3" />
+		<item id="23" sound="mp3/chant23.mp3" />
+		<item id="24" sound="mp3/chant24.mp3" />
+		<item id="25" sound="mp3/chant25.mp3" />
+		<item id="26" sound="mp3/chant26.mp3" />
+		<item id="27" sound="mp3/chant27.mp3" />
+		<item id="28" sound="mp3/chant28.mp3" />
+		<item id="29" sound="mp3/chant29.mp3" />
+		<item id="30" sound="mp3/chant30.mp3" />
+		<item id="31" sound="mp3/chant31.mp3" />
+		<item id="32" sound="mp3/chant32.mp3" />
+		<item id="33" sound="mp3/chant33.mp3" />
+		<item id="34" sound="mp3/chant34.mp3" />
+		<item id="35" sound="mp3/chant35.mp3" />
+	</items>
+</data>

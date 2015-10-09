@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<top name="unit5">Unit 5</top>
+	<mod title="本模块为课后同步练习，请在光盘配套的纸质手册上完成。&#x000A;"></mod>
+	<items id="1" title="Part A&#x000A;I. 把下列内容写在相应的图片下。" type="ROW" column="1">
+		<item id="1.">grape</item>
+		<item id="2.">strawberry</item>
+		<item id="3.">watermelon</item>
+		<item id="4.">orange</item>
+		<item id="5.">banana</item>
+		<item id="6.">apple</item>
+	</items>
+	<items id="2" title="II. 连词成句，注意大小写及标点符号。" type="ROW" column="1">
+		<item id="1.">Do you like oranges?</item>
+		<item id="2.">I like pears and apples. 或 I like apples and pears.</item>
+		<item id="3.">Let's buy some bananas and oranges. 或 Let's buy some oranges and bananas.</item>
+		<item id="4.">I don't like apples. I like oranges. 或 I don't like oranges. I like apples. &#x000A;     或 I like oranges. I don't like apples. 或 I like apples. I don't like oranges.</item>
+	</items>
+	<items id="3" title="Part B&#x000A;II. 英汉互译。" type="ROW" column="5">
+		<item id="1." >E</item>
+		<item id="2." >C</item>
+		<item id="3." >A</item>
+		<item id="4." >B</item>
+		<item id="5." >D</item>
+	</items>
+	<items id="4" title="III. 情境问答。" type="ROW" column="5">
+		<item id="1." >B</item>
+		<item id="2." >B</item>
+		<item id="3." >A</item>
+		<item id="4." >A</item>
+		<item id="5." >B</item>
+	</items>
+	<items id="5" title="Part C&#x000A;I. 单项选择。" type="ROW" column="5">
+		<item id="1.">B</item>
+		<item id="2.">B</item>
+		<item id="3.">A</item>
+		<item id="4.">B</item>
+		<item id="5.">A</item>
+	</items>
+	<items id="6" title="II. 选择与图片相符的内容。" type="ROW"  column="4"> 
+		<item id="1.">A</item>
+		<item id="2.">B</item>
+		<item id="3.">A</item>
+		<item id="4.">B</item>
+	</items>
+	<items id="7" title="III. 读句子，连一连。" type="ROW" column="4">
+		<item id="1." >C</item>
+		<item id="2." >A</item>
+		<item id="3." >B</item>
+		<item id="4." >D</item>
+	</items>
+</data>

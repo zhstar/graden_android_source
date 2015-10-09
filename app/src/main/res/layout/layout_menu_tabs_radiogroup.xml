@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+                android:gravity="center_vertical|center_horizontal">
+
+    <RadioGroup
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:orientation="horizontal"
+        android:id="@+id/menu_radiogroup"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp">
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/reading_normal"
+            android:button="@drawable/custom_reading_radiobutton_style"
+            android:id="@+id/menu_reading_radioButton"
+            android:checked="true"/>
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/practise_normal"
+            android:button="@drawable/custom_practise_radiobutton_style"
+            android:id="@+id/menu_practise_radioButton"/>
+    </RadioGroup>
+</RelativeLayout>

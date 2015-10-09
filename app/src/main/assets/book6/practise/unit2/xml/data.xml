@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<top name="unit2">Unit 2</top>
+	<mod title="本模块为课后同步练习，请在光盘配套的纸质手册上完成。&#x000A;"></mod>
+	<items id="1" title="Part A&#x000A;I. 把下列内容写在相应的图片下。" type="ROW" column="1">
+		<item id="1.">brother</item>
+		<item id="2.">sister</item>
+		<item id="3.">father</item>
+		<item id="4.">mother</item>
+		<item id="5.">grandpa</item>
+		<item id="6.">grandma</item>
+	</items>
+	<items id="2" title="II. 连词成句，注意大小写及标点符号。" type="ROW" column="1">
+		<item id="1.">Who is that woman?</item>
+		<item id="2.">She is my mother.</item>
+		<item id="3.">The man is the father.</item>
+		<item id="4.">Nice to meet you, too.</item>
+		<item id="5.">This is my friend, Amy. 或 This is Amy, my friend. 或 Amy, this is my friend.</item>
+	</items>
+	<items id="3" title="Part B&#x000A;II. 英汉互译。" type="ROW" column="5">
+		<item id="1." >C</item>
+		<item id="2." >A</item>
+		<item id="3." >B</item>
+		<item id="4." >D</item>
+		<item id="5." >E</item>
+	</items>
+	<items id="4" title="III. 情境问答。" type="ROW" column="5">
+		<item id="1." >B</item>
+		<item id="2." >B</item>
+		<item id="3." >B</item>
+		<item id="4." >A</item>
+		<item id="5." >A</item>
+	</items>
+	<items id="5" title="Part C&#x000A;I. 单项选择。" type="ROW" column="4">
+		<item id="1.">B</item>
+		<item id="2.">A</item>
+		<item id="3.">B</item>
+		<item id="4.">A</item>
+	</items>
+	<items id="6" title="II. 选择相符的图片。" type="ROW"  column="5"> 
+		<item id="1.">A</item>
+		<item id="2.">A</item>
+		<item id="3.">A</item>
+		<item id="4.">B</item>
+		<item id="5.">B</item>
+	</items>
+	<items id="7" title="III. 判断对错，对的打“√”，错的打“×”。" type="ROW" column="4">
+		<item id="1." >√</item>
+		<item id="2." >×</item>
+		<item id="3." >×</item>
+		<item id="4." >×</item>
+	</items>
+</data>

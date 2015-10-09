@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<top name="re1">期中测试</top>
+	<mod title="本模块为课后同步练习，请在光盘配套的纸质手册上完成。&#x000A;"></mod>
+	<items id="1" title="听力部分&#x000A;一、听录音，选出与录音内容相符的图片。(10%)" type="sound" column="5">
+		<item id="1." url="mp3/T101.mp3">B</item>
+		<item id="2." url="mp3/T102.mp3">A</item>
+		<item id="3." url="mp3/T103.mp3">A</item>
+		<item id="4." url="mp3/T104.mp3">A</item>
+		<item id="5." url="mp3/T105.mp3">B</item>
+	</items>
+	<items id="2" title="二、听录音，选出你听到的内容。(15%)" type="sound" column="5">
+		<item id="1." url="mp3/T201.mp3">A</item>
+		<item id="2." url="mp3/T202.mp3">B</item>
+		<item id="3." url="mp3/T203.mp3">A</item>
+		<item id="4." url="mp3/T204.mp3">A</item>
+		<item id="5." url="mp3/T205.mp3">B</item>
+	</items>
+	<items id="3" title="三、听录音，判断图片是否与录音一致，是则填“T”，否则填“F”。(15%)" type="sound" column="5">
+		<item id="1." url="mp3/T301.mp3">F</item>
+		<item id="2." url="mp3/T302.mp3">T</item>
+		<item id="3." url="mp3/T303.mp3">F</item>
+		<item id="4." url="mp3/T304.mp3">T</item>
+		<item id="5." url="mp3/T305.mp3">F</item>
+	</items>
+	<items id="4" title="四、听录音，用1、2、3、4、5给下列图片排序。(15%)" type="sound" column="1">
+		<item id="   " url="mp3/T401.mp3">25413</item>
+	</items>
+	<items id="5" title="五、听录音，选择正确的应答语。(15%)" type="sound" column="5">
+		<item id="1." url="mp3/T501.mp3">B</item>
+		<item id="2." url="mp3/T502.mp3">A</item>
+		<item id="3." url="mp3/T503.mp3">B</item>
+		<item id="4." url="mp3/T504.mp3">B</item>
+		<item id="5." url="mp3/T505.mp3">A</item>
+	</items>
+	<items id="6" title="&#x000A;笔试部分&#x000A;六、看图，选择正确的答案。(10%)" type="ROW"  column="5"> 
+		<item id="1.">B</item>
+		<item id="2.">B</item>
+		<item id="3.">B</item>
+		<item id="4.">B</item>
+		<item id="5.">A</item>
+	</items>
+	<items id="7" title="七、选出不同类的一项。(10%) " type="ROW" column="5">
+		<item id="1." >C</item>
+		<item id="2." >B</item>
+		<item id="3." >C</item>
+		<item id="4." >A</item>
+		<item id="5." >C</item>
+	</items>
+	<items id="8" title="八、情景问答。(10%)" type="ROW" column="5">
+		<item id="1." >B</item>
+		<item id="2." >A</item>
+		<item id="3." >B</item>
+		<item id="4." >B</item>
+		<item id="5." >A</item>
+	</items>
+
+</data>

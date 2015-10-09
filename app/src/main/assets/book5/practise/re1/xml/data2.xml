@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<top name="re1">期中测试</top>
+	<mod title="本模块为课后同步练习，请在光盘配套的纸质手册上完成。&#x000A;"></mod>
+	<items id="1" title="听力部分&#x000A;一、听录音，选出与录音内容相符的图片。(10%)" type="sound" column="5">
+		<item id="1." url="mp3/T101.mp3">A</item>
+		<item id="2." url="mp3/T102.mp3">B</item>
+	</items>
+</data>

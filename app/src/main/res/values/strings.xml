@@ -1,0 +1,9 @@
+<resources>
+    <string name="update_version_xml">http://www.kokoi.cn/assist/mobiles/android/update/garden/pep/version.xml</string>
+
+    <string name="app_name">开心乐园PEP</string>
+
+    <string name="bookshelf_title">开心乐园</string>
+
+    <string name="show_answer_text">显示答案</string>
+</resources>

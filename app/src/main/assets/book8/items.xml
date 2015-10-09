@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+	<!--
+	name:对应每个单元的文件夹名
+	bgImg:单元菜单按钮的背景图
+	-->
+    <item name="unit1" bgImg="itembgs/menu_item_u1.png">Unit 1  My school</item>
+    <item name="unit2" bgImg="itembgs/menu_item_u2.png">Unit 2  What time is it?</item>
+    <item name="unit3" bgImg="itembgs/menu_item_u3.png">Unit 3  Weather</item>
+    <item name="re1" bgImg="itembgs/menu_item_r1.png">Recycle 1</item>
+    <item name="unit4" bgImg="itembgs/menu_item_u4.png">Unit 4  At the farm</item>
+    <item name="unit5" bgImg="itembgs/menu_item_u5.png">Unit 5  My clothes</item>
+    <item name="unit6" bgImg="itembgs/menu_item_u6.png">Unit 6  Shopping</item>
+    <item name="re2" bgImg="itembgs/menu_item_r2.png">Recycle 2</item>
+</items>

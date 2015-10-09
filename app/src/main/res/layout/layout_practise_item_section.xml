@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="一、听录音，选出与录音内容相符的图片。(10%)"
+        android:id="@+id/section_title_textView"
+        android:textSize="24dp"
+        android:textColor="#ff202020"/>
+
+    <LinearLayout
+        android:id="@+id/practise_section_container"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="55dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="0dp"
+        android:layout_marginRight="10dp">
+    </LinearLayout>
+    <CheckBox
+        android:id="@+id/show_answer_checkBox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="55dp"
+        android:layout_marginBottom="10dp"
+        android:text="@string/show_answer_text"/>
+</LinearLayout>

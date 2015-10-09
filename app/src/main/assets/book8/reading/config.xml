@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="utf-8"?>
+<units>
+	<!--name:忽略 title:单元（不带单元标题）-->
+    <unit name="" title="Unit 1">
+		<!--name:模块标记，如:a,b,c,start-->
+        <items name="start">
+			<!--title:内容-->
+            <item title="1. Let&apos;s act">
+				<!--包含的所有声音，根据播放顺序加入节点-->
+                <snd>book8/reading/unit1/4/mp3/act1.mp3</snd>
+                <snd>book8/reading/unit1/4/mp3/act2.mp3</snd>
+                <snd>book8/reading/unit1/4/mp3/act3.mp3</snd>
+                <snd>book8/reading/unit1/4/mp3/act4.mp3</snd>
+                <snd>book8/reading/unit1/4/mp3/act5.mp3</snd>
+                <snd>book8/reading/unit1/4/mp3/act6.mp3</snd>
+                <snd>book8/reading/unit1/4/mp3/act7.mp3</snd>
+                <snd>book8/reading/unit1/4/mp3/act8.mp3</snd>
+                <snd>book8/reading/unit1/4/mp3/act9.mp3</snd>
+                <snd>book8/reading/unit1/4/mp3/act10.mp3</snd>
+            </item>
+        </items>
+        <items name="a">
+            <item title="1. Let's talk">
+                <snd>book8/reading/unit1/1/mp3/talk1.mp3</snd>
+                <snd>book8/reading/unit1/1/mp3/talk2.mp3</snd>
+                <snd>book8/reading/unit1/1/mp3/talk3.mp3</snd>
+                <snd>book8/reading/unit1/1/mp3/talk4.mp3</snd>
+                <snd>book8/reading/unit1/1/mp3/talk5.mp3</snd>
+                <snd>book8/reading/unit1/1/mp3/talk6.mp3</snd>
+                <snd>book8/reading/unit1/1/mp3/talk7.mp3</snd>
+                <snd>book8/reading/unit1/1/mp3/talk8.mp3</snd>
+                <snd>book8/reading/unit1/1/mp3/talk9.mp3</snd>
+                <snd>book8/reading/unit1/1/mp3/talk10.mp3</snd>
+                <snd>book8/reading/unit1/1/mp3/talk11.mp3</snd>
+            </item>
+            <item title="3. Let&apos;s learn">
+                <snd>book8/reading/unit1/1/mp3/learn5.mp3</snd>
+                <snd>book8/reading/unit1/1/mp3/learn6.mp3</snd>
+            </item>
+        </items>
+        <items name="b">
+            <item title="1. Let's talk">
+                <snd>book8/reading/unit1/2/mp3/talk1.mp3</snd>
+                <snd>book8/reading/unit1/2/mp3/talk2.mp3</snd>
+                <snd>book8/reading/unit1/2/mp3/talk3.mp3</snd>
+                <snd>book8/reading/unit1/2/mp3/talk4.mp3</snd>
+                <snd>book8/reading/unit1/2/mp3/talk5.mp3</snd>
+                <snd>book8/reading/unit1/2/mp3/talk6.mp3</snd>
+                <snd>book8/reading/unit1/2/mp3/talk7.mp3</snd>
+                <snd>book8/reading/unit1/2/mp3/talk8.mp3</snd>
+                <snd>book8/reading/unit1/2/mp3/talk9.mp3</snd>
+                <snd>book8/reading/unit1/2/mp3/talk10.mp3</snd>
+                <snd>book8/reading/unit1/2/mp3/talk11.mp3</snd>
+                <snd>book8/reading/unit1/2/mp3/talk12.mp3</snd>
+            </item>
+            <item title="2. Let&apos;s play">
+                <snd>book8/reading/unit1/2/mp3/play1.mp3</snd>
+                <snd>book8/reading/unit1/2/mp3/play2.mp3</snd>
+                <snd>book8/reading/unit1/2/mp3/play3.mp3</snd>
+                <snd>book8/reading/unit1/2/mp3/play4.mp3</snd>
+                <snd>book8/reading/unit1/2/mp3/play5.mp3</snd>
+                <snd>book8/reading/unit1/2/mp3/play6.mp3</snd>
+                <snd>book8/reading/unit1/2/mp3/play7.mp3</snd>
+                <snd>book8/reading/unit1/2/mp3/play8.mp3</snd>
+                <snd>book8/reading/unit1/2/mp3/play9.mp3</snd>
+                <snd>book8/reading/unit1/2/mp3/play10.mp3</snd>
+                <snd>book8/reading/unit1/2/mp3/play11.mp3</snd>
+                <snd>book8/reading/unit1/2/mp3/play12.mp3</snd>
+                <snd>book8/reading/unit1/2/mp3/play13.mp3</snd>
+                <snd>book8/reading/unit1/2/mp3/play14.mp3</snd>
+                <snd>book8/reading/unit1/2/mp3/play15.mp3</snd>
+                <snd>book8/reading/unit1/2/mp3/play16.mp3</snd>
+            </item>
+            <item title="3. Let&apos;s learn">
+                <snd>book8/reading/unit1/2/mp3/learn6.mp3</snd>
+                <snd>book8/reading/unit1/2/mp3/learn7.mp3</snd>
+                <snd>book8/reading/unit1/2/mp3/learn8.mp3</snd>
+                <snd>book8/reading/unit1/2/mp3/learn9.mp3</snd>
+                <snd>book8/reading/unit1/2/mp3/learn10.mp3</snd>
+            </item>
+        </items>
+        <items name="c">
+            <item title="1. Story time">
+                <snd>book8/reading/unit1/3/mp3/story1.mp3</snd>
+                <snd>book8/reading/unit1/3/mp3/story2.mp3</snd>
+                <snd>book8/reading/unit1/3/mp3/story3.mp3</snd>
+                <snd>book8/reading/unit1/3/mp3/story4.mp3</snd>
+                <snd>book8/reading/unit1/3/mp3/story5.mp3</snd>
+                <snd>book8/reading/unit1/3/mp3/story6.mp3</snd>
+                <snd>book8/reading/unit1/3/mp3/story7.mp3</snd>
+                <snd>book8/reading/unit1/3/mp3/story8.mp3</snd>
+                <snd>book8/reading/unit1/3/mp3/story9.mp3</snd>
+                <snd>book8/reading/unit1/3/mp3/story10.mp3</snd>
+                <snd>book8/reading/unit1/3/mp3/story11.mp3</snd>
+                <snd>book8/reading/unit1/3/mp3/story12.mp3</snd>
+                <snd>book8/reading/unit1/3/mp3/story13.mp3</snd>
+                <snd>book8/reading/unit1/3/mp3/story14.mp3</snd>
+                <snd>book8/reading/unit1/3/mp3/story15.mp3</snd>
+                <snd>book8/reading/unit1/3/mp3/story16.mp3</snd>
+                <snd>book8/reading/unit1/3/mp3/story17.mp3</snd>
+                <snd>book8/reading/unit1/3/mp3/story18.mp3</snd>
+                <snd>book8/reading/unit1/3/mp3/story19.mp3</snd>
+            </item>
+        </items>
+    </unit>
+    <unit name="" title="Unit 2">
+		<!--name:模块标记，如:a,b,c,start-->
+        <items name="start">
+			<!--title:内容-->
+            <item title="1. Let&apos;s act">
+				<!--包含的所有声音，根据播放顺序加入节点-->
+                <snd>book8/reading/unit2/4/mp3/act1.mp3</snd>
+                <snd>book8/reading/unit2/4/mp3/act2.mp3</snd>
+                <snd>book8/reading/unit2/4/mp3/act3.mp3</snd>
+                <snd>book8/reading/unit2/4/mp3/act4.mp3</snd>
+                <snd>book8/reading/unit2/4/mp3/act5.mp3</snd>
+                <snd>book8/reading/unit2/4/mp3/act6.mp3</snd>
+                <snd>book8/reading/unit2/4/mp3/act7.mp3</snd>
+                <snd>book8/reading/unit2/4/mp3/act8.mp3</snd>
+                <snd>book8/reading/unit2/4/mp3/act9.mp3</snd>
+                <snd>book8/reading/unit2/4/mp3/act10.mp3</snd>
+                <snd>book8/reading/unit2/4/mp3/act11.mp3</snd>
+                <snd>book8/reading/unit2/4/mp3/act12.mp3</snd>
+                <snd>book8/reading/unit2/4/mp3/act13.mp3</snd>
+                <snd>book8/reading/unit2/4/mp3/act14.mp3</snd>
+                <snd>book8/reading/unit2/4/mp3/act15.mp3</snd>
+                <snd>book8/reading/unit2/4/mp3/act16.mp3</snd>
+                <snd>book8/reading/unit2/4/mp3/act17.mp3</snd>
+                <snd>book8/reading/unit2/4/mp3/act18.mp3</snd>
+                <snd>book8/reading/unit2/4/mp3/act19.mp3</snd>
+                <snd>book8/reading/unit2/4/mp3/act20.mp3</snd>
+            </item>
+        </items>
+        <items name="a">
+            <item title="1. Let&apos;s talk">
+                <snd>book8/reading/unit2/1/mp3/talk1.mp3</snd>
+                <snd>book8/reading/unit2/1/mp3/talk2.mp3</snd>
+                <snd>book8/reading/unit2/1/mp3/talk3.mp3</snd>
+                <snd>book8/reading/unit2/1/mp3/talk4.mp3</snd>
+                <snd>book8/reading/unit2/1/mp3/talk5.mp3</snd>
+                <snd>book8/reading/unit2/1/mp3/talk6.mp3</snd>
+                <snd>book8/reading/unit2/1/mp3/talk7.mp3</snd>
+                <snd>book8/reading/unit2/1/mp3/talk8.mp3</snd>
+                <snd>book8/reading/unit2/1/mp3/talk9.mp3</snd>
+                <snd>book8/reading/unit2/1/mp3/talk10.mp3</snd>
+            </item>
+            <item title="2. Let&apos;s play">
+                <snd>book8/reading/unit2/1/mp3/play1.mp3</snd>
+                <snd>book8/reading/unit2/1/mp3/play2.mp3</snd>
+                <snd>book8/reading/unit2/1/mp3/play3.mp3</snd>
+                <snd>book8/reading/unit2/1/mp3/play4.mp3</snd>
+                <snd>book8/reading/unit2/1/mp3/play5.mp3</snd>
+                <snd>book8/reading/unit2/1/mp3/play6.mp3</snd>
+                <snd>book8/reading/unit2/1/mp3/play10.mp3</snd>
+                <snd>book8/reading/unit2/1/mp3/play11.mp3</snd>
+                <snd>book8/reading/unit2/1/mp3/play12.mp3</snd>
+                <snd>book8/reading/unit2/1/mp3/play13.mp3</snd>
+                <snd>book8/reading/unit2/1/mp3/play14.mp3</snd>
+                <snd>book8/reading/unit2/1/mp3/play15.mp3</snd>
+                <snd>book8/reading/unit2/1/mp3/play16.mp3</snd>
+                <snd>book8/reading/unit2/1/mp3/play17.mp3</snd>
+                <snd>book8/reading/unit2/1/mp3/play18.mp3</snd>
+                <snd>book8/reading/unit2/1/mp3/play19.mp3</snd>
+                <snd>book8/reading/unit2/1/mp3/play20.mp3</snd>
+                <snd>book8/reading/unit2/1/mp3/play21.mp3</snd>
+            </item>
+            <item title="3. Let&apos;s learn">
+                <snd>book8/reading/unit2/1/mp3/learn7.mp3</snd>
+                <snd>book8/reading/unit2/1/mp3/learn8.mp3</snd>
+                <snd>book8/reading/unit2/1/mp3/learn9.mp3</snd>
+                <snd>book8/reading/unit2/1/mp3/learn10.mp3</snd>
+            </item>
+        </items>
+        <items name="b">
+            <item title="1. Let's talk">
+                <snd>book8/reading/unit2/2/mp3/talk1.mp3</snd>
+                <snd>book8/reading/unit2/2/mp3/talk2.mp3</snd>
+                <snd>book8/reading/unit2/2/mp3/talk3.mp3</snd>
+                <snd>book8/reading/unit2/2/mp3/talk4.mp3</snd>
+                <snd>book8/reading/unit2/2/mp3/talk5.mp3</snd>
+                <snd>book8/reading/unit2/2/mp3/talk6.mp3</snd>
+                <snd>book8/reading/unit2/2/mp3/talk7.mp3</snd>
+                <snd>book8/reading/unit2/2/mp3/talk8.mp3</snd>
+                <snd>book8/reading/unit2/2/mp3/talk9.mp3</snd>
+                <snd>book8/reading/unit2/2/mp3/talk10.mp3</snd>
+            </item>
+            <item title="2. Let&apos;s play">
+                <snd>book8/reading/unit2/2/mp3/play1.mp3</snd>
+                <snd>book8/reading/unit2/2/mp3/play2.mp3</snd>
+                <snd>book8/reading/unit2/2/mp3/play3.mp3</snd>
+                <snd>book8/reading/unit2/2/mp3/play4.mp3</snd>
+                <snd>book8/reading/unit2/2/mp3/play5.mp3</snd>
+                <snd>book8/reading/unit2/2/mp3/play6.mp3</snd>
+            </item>
+            <item title="3. Let&apos;s learn">
+                <snd>book8/reading/unit2/2/mp3/learn5.mp3</snd>
+                <snd>book8/reading/unit2/2/mp3/learn6.mp3</snd>
+            </item>
+        </items>
+        <items name="c">
+            <item title="1. Story time">
+                <snd>book8/reading/unit2/3/mp3/story1.mp3</snd>
+                <snd>book8/reading/unit2/3/mp3/story2.mp3</snd>
+                <snd>book8/reading/unit2/3/mp3/story3.mp3</snd>
+                <snd>book8/reading/unit2/3/mp3/story4.mp3</snd>
+                <snd>book8/reading/unit2/3/mp3/story5.mp3</snd>
+                <snd>book8/reading/unit2/3/mp3/story6.mp3</snd>
+                <snd>book8/reading/unit2/3/mp3/story7.mp3</snd>
+                <snd>book8/reading/unit2/3/mp3/story8.mp3</snd>
+                <snd>book8/reading/unit2/3/mp3/story9.mp3</snd>
+                <snd>book8/reading/unit2/3/mp3/story10.mp3</snd>
+                <snd>book8/reading/unit2/3/mp3/story11.mp3</snd>
+                <snd>book8/reading/unit2/3/mp3/story12.mp3</snd>
+                <snd>book8/reading/unit2/3/mp3/story13.mp3</snd>
+                <snd>book8/reading/unit2/3/mp3/story14.mp3</snd>
+            </item>
+        </items>
+    </unit>
+    <unit name="" title="Unit 3">
+		<!--name:模块标记，如:a,b,c,start-->
+        <items name="start">
+			<!--title:内容-->
+            <item title="1. Let&apos;s act">
+				<!--包含的所有声音，根据播放顺序加入节点-->
+                <snd>book8/reading/unit3/4/mp3/act1.mp3</snd>
+                <snd>book8/reading/unit3/4/mp3/act2.mp3</snd>
+                <snd>book8/reading/unit3/4/mp3/act3.mp3</snd>
+                <snd>book8/reading/unit3/4/mp3/act4.mp3</snd>
+                <snd>book8/reading/unit3/4/mp3/act5.mp3</snd>
+                <snd>book8/reading/unit3/4/mp3/act6.mp3</snd>
+                <snd>book8/reading/unit3/4/mp3/act7.mp3</snd>
+                <snd>book8/reading/unit3/4/mp3/act8.mp3</snd>
+                <snd>book8/reading/unit3/4/mp3/act9.mp3</snd>
+                <snd>book8/reading/unit3/4/mp3/act10.mp3</snd>
+                <snd>book8/reading/unit3/4/mp3/act11.mp3</snd>
+            </item>
+        </items>
+        <items name="a">
+            <item title="1. Let's talk">
+                <snd>book8/reading/unit3/1/mp3/talk1.mp3</snd>
+                <snd>book8/reading/unit3/1/mp3/talk2.mp3</snd>
+                <snd>book8/reading/unit3/1/mp3/talk3.mp3</snd>
+                <snd>book8/reading/unit3/1/mp3/talk4.mp3</snd>
+                <snd>book8/reading/unit3/1/mp3/talk5.mp3</snd>
+                <snd>book8/reading/unit3/1/mp3/talk6.mp3</snd>
+                <snd>book8/reading/unit3/1/mp3/talk7.mp3</snd>
+                <snd>book8/reading/unit3/1/mp3/talk8.mp3</snd>
+                <snd>book8/reading/unit3/1/mp3/talk9.mp3</snd>
+                <snd>book8/reading/unit3/1/mp3/talk10.mp3</snd>
+                <snd>book8/reading/unit3/1/mp3/talk11.mp3</snd>
+            </item>
+            <item title="2. Let&apos;s play">
+                <snd>book8/reading/unit3/1/mp3/play1.mp3</snd>
+                <snd>book8/reading/unit3/1/mp3/play2.mp3</snd>
+                <snd>book8/reading/unit3/1/mp3/play3.mp3</snd>
+                <snd>book8/reading/unit3/1/mp3/play4.mp3</snd>
+                <snd>book8/reading/unit3/1/mp3/play5.mp3</snd>
+                <snd>book8/reading/unit3/1/mp3/play6.mp3</snd>
+                <snd>book8/reading/unit3/1/mp3/play7.mp3</snd>
+                <snd>book8/reading/unit3/1/mp3/play8.mp3</snd>
+                <snd>book8/reading/unit3/1/mp3/play9.mp3</snd>
+                <snd>book8/reading/unit3/1/mp3/play10.mp3</snd>
+                <snd>book8/reading/unit3/1/mp3/play11.mp3</snd>
+            </item>
+            <item title="3. Let&apos;s learn">
+                <snd>book8/reading/unit3/1/mp3/learn5.mp3</snd>
+                <snd>book8/reading/unit3/1/mp3/learn6.mp3</snd>
+                <snd>book8/reading/unit3/1/mp3/learn7.mp3</snd>
+            </item>
+        </items>
+        <items name="b">
+            <item title="1. Let's talk">
+                <snd>book8/reading/unit3/2/mp3/talk1.mp3</snd>
+                <snd>book8/reading/unit3/2/mp3/talk2.mp3</snd>
+                <snd>book8/reading/unit3/2/mp3/talk3.mp3</snd>
+                <snd>book8/reading/unit3/2/mp3/talk4.mp3</snd>
+                <snd>book8/reading/unit3/2/mp3/talk5.mp3</snd>
+                <snd>book8/reading/unit3/2/mp3/talk6.mp3</snd>
+                <snd>book8/reading/unit3/2/mp3/talk7.mp3</snd>
+                <snd>book8/reading/unit3/2/mp3/talk8.mp3</snd>
+                <snd>book8/reading/unit3/2/mp3/talk9.mp3</snd>
+                <snd>book8/reading/unit3/2/mp3/talk10.mp3</snd>
+                <snd>book8/reading/unit3/2/mp3/talk11.mp3</snd>
+                <snd>book8/reading/unit3/2/mp3/talk12.mp3</snd>
+                <snd>book8/reading/unit3/2/mp3/talk13.mp3</snd>
+            </item>
+            <item title="2. Let&apos;s play">
+                <snd>book8/reading/unit3/2/mp3/play6.mp3</snd>
+                <snd>book8/reading/unit3/2/mp3/play7.mp3</snd>
+                <snd>book8/reading/unit3/2/mp3/play13.mp3</snd>
+                <snd>book8/reading/unit3/2/mp3/play14.mp3</snd>
+                <snd>book8/reading/unit3/2/mp3/play15.mp3</snd>
+                <snd>book8/reading/unit3/2/mp3/play16.mp3</snd>
+                <snd>book8/reading/unit3/2/mp3/play17.mp3</snd>
+                <snd>book8/reading/unit3/2/mp3/play18.mp3</snd>
+                <snd>book8/reading/unit3/2/mp3/play19.mp3</snd>
+                <snd>book8/reading/unit3/2/mp3/play20.mp3</snd>
+            </item>
+            <item title="3. Let&apos;s learn">
+                <snd>book8/reading/unit3/2/mp3/learn6.mp3</snd>
+                <snd>book8/reading/unit3/2/mp3/learn7.mp3</snd>
+                <snd>book8/reading/unit3/2/mp3/learn8.mp3</snd>
+                <snd>book8/reading/unit3/2/mp3/learn9.mp3</snd>
+            </item>
+        </items>
+        <items name="c">
+            <item title="1. Story time">
+                <snd>book8/reading/unit3/3/mp3/story1.mp3</snd>
+                <snd>book8/reading/unit3/3/mp3/story2.mp3</snd>
+                <snd>book8/reading/unit3/3/mp3/story3.mp3</snd>
+                <snd>book8/reading/unit3/3/mp3/story4.mp3</snd>
+                <snd>book8/reading/unit3/3/mp3/story5.mp3</snd>
+                <snd>book8/reading/unit3/3/mp3/story6.mp3</snd>
+                <snd>book8/reading/unit3/3/mp3/story7.mp3</snd>
+                <snd>book8/reading/unit3/3/mp3/story8.mp3</snd>
+                <snd>book8/reading/unit3/3/mp3/story9.mp3</snd>
+                <snd>book8/reading/unit3/3/mp3/story10.mp3</snd>
+                <snd>book8/reading/unit3/3/mp3/story11.mp3</snd>
+                <snd>book8/reading/unit3/3/mp3/story12.mp3</snd>
+                <snd>book8/reading/unit3/3/mp3/story13.mp3</snd>
+                <snd>book8/reading/unit3/3/mp3/story14.mp3</snd>
+                <snd>book8/reading/unit3/3/mp3/story15.mp3</snd>
+                <snd>book8/reading/unit3/3/mp3/story16.mp3</snd>
+            </item>
+        </items>
+    </unit>
+    <unit name="" title="Recycle 1">
+		<!--name:模块标记，如:a,b,c,start-->
+        <items name="start">
+			<!--title:内容-->
+            <item title="1. Read aloud">
+				<!--包含的所有声音，根据播放顺序加入节点-->
+                <snd>book8/reading/unit7/4/mp3/read1.mp3</snd>
+                <snd>book8/reading/unit7/4/mp3/read2.mp3</snd>
+                <snd>book8/reading/unit7/4/mp3/read3.mp3</snd>
+                <snd>book8/reading/unit7/4/mp3/read4.mp3</snd>
+                <snd>book8/reading/unit7/4/mp3/read5.mp3</snd>
+                <snd>book8/reading/unit7/4/mp3/read6.mp3</snd>
+                <snd>book8/reading/unit7/4/mp3/read7.mp3</snd>
+                <snd>book8/reading/unit7/4/mp3/read8.mp3</snd>
+                <snd>book8/reading/unit7/4/mp3/read9.mp3</snd>
+                <snd>book8/reading/unit7/4/mp3/read10.mp3</snd>
+                <snd>book8/reading/unit7/4/mp3/read11.mp3</snd>
+                <snd>book8/reading/unit7/4/mp3/read12.mp3</snd>
+                <snd>book8/reading/unit7/4/mp3/read13.mp3</snd>
+                <snd>book8/reading/unit7/4/mp3/read14.mp3</snd>
+                <snd>book8/reading/unit7/4/mp3/read15.mp3</snd>
+            </item>
+        </items>
+    </unit>
+    <unit name="" title="Unit 4">
+		<!--name:模块标记，如:a,b,c,start-->
+        <items name="start">
+			<!--title:内容-->
+            <item title="1. Let&apos;s act">
+				<!--包含的所有声音，根据播放顺序加入节点-->
+                <snd>book8/reading/unit4/4/mp3/act1.mp3</snd>
+                <snd>book8/reading/unit4/4/mp3/act2.mp3</snd>
+                <snd>book8/reading/unit4/4/mp3/act3.mp3</snd>
+                <snd>book8/reading/unit4/4/mp3/act4.mp3</snd>
+                <snd>book8/reading/unit4/4/mp3/act5.mp3</snd>
+                <snd>book8/reading/unit4/4/mp3/act6.mp3</snd>
+                <snd>book8/reading/unit4/4/mp3/act7.mp3</snd>
+                <snd>book8/reading/unit4/4/mp3/act8.mp3</snd>
+                <snd>book8/reading/unit4/4/mp3/act9.mp3</snd>
+                <snd>book8/reading/unit4/4/mp3/act10.mp3</snd>
+            </item>
+        </items>
+        <items name="a">
+            <item title="1. Let's talk">
+                <snd>book8/reading/unit4/1/mp3/talk1.mp3</snd>
+                <snd>book8/reading/unit4/1/mp3/talk2.mp3</snd>
+                <snd>book8/reading/unit4/1/mp3/talk3.mp3</snd>
+                <snd>book8/reading/unit4/1/mp3/talk4.mp3</snd>
+                <snd>book8/reading/unit4/1/mp3/talk5.mp3</snd>
+                <snd>book8/reading/unit4/1/mp3/talk6.mp3</snd>
+                <snd>book8/reading/unit4/1/mp3/talk7.mp3</snd>
+                <snd>book8/reading/unit4/1/mp3/talk8.mp3</snd>
+                <snd>book8/reading/unit4/1/mp3/talk9.mp3</snd>
+                <snd>book8/reading/unit4/1/mp3/talk10.mp3</snd>
+                <snd>book8/reading/unit4/1/mp3/talk11.mp3</snd>
+            </item>
+            <item title="2. Let&apos;s play">
+                <snd>book8/reading/unit4/1/mp3/play1.mp3</snd>
+                <snd>book8/reading/unit4/1/mp3/play2.mp3</snd>
+                <snd>book8/reading/unit4/1/mp3/play3.mp3</snd>
+                <snd>book8/reading/unit4/1/mp3/play4.mp3</snd>
+                <snd>book8/reading/unit4/1/mp3/play5.mp3</snd>
+            </item>
+            <item title="3. Let&apos;s learn">
+                <snd>book8/reading/unit4/1/mp3/learn5.mp3</snd>
+                <snd>book8/reading/unit4/1/mp3/learn6.mp3</snd>
+                <snd>book8/reading/unit4/1/mp3/learn7.mp3</snd>
+            </item>
+        </items>
+        <items name="b">
+            <item title="1. Let's talk">
+                <snd>book8/reading/unit4/2/mp3/talk1.mp3</snd>
+                <snd>book8/reading/unit4/2/mp3/talk2.mp3</snd>
+                <snd>book8/reading/unit4/2/mp3/talk3.mp3</snd>
+                <snd>book8/reading/unit4/2/mp3/talk4.mp3</snd>
+                <snd>book8/reading/unit4/2/mp3/talk5.mp3</snd>
+                <snd>book8/reading/unit4/2/mp3/talk6.mp3</snd>
+                <snd>book8/reading/unit4/2/mp3/talk7.mp3</snd>
+                <snd>book8/reading/unit4/2/mp3/talk8.mp3</snd>
+                <snd>book8/reading/unit4/2/mp3/talk9.mp3</snd>
+                <snd>book8/reading/unit4/2/mp3/talk10.mp3</snd>
+            </item>
+            <item title="3. Let&apos;s learn">
+                <snd>book8/reading/unit4/2/mp3/learn5.mp3</snd>
+                <snd>book8/reading/unit4/2/mp3/learn6.mp3</snd>
+            </item>
+        </items>
+        <items name="c">
+            <item title="1. Story time">
+                <snd>book8/reading/unit4/3/mp3/story1.mp3</snd>
+                <snd>book8/reading/unit4/3/mp3/story2.mp3</snd>
+                <snd>book8/reading/unit4/3/mp3/story3.mp3</snd>
+                <snd>book8/reading/unit4/3/mp3/story4.mp3</snd>
+                <snd>book8/reading/unit4/3/mp3/story5.mp3</snd>
+                <snd>book8/reading/unit4/3/mp3/story6.mp3</snd>
+                <snd>book8/reading/unit4/3/mp3/story7.mp3</snd>
+                <snd>book8/reading/unit4/3/mp3/story8.mp3</snd>
+                <snd>book8/reading/unit4/3/mp3/story9.mp3</snd>
+                <snd>book8/reading/unit4/3/mp3/story10.mp3</snd>
+                <snd>book8/reading/unit4/3/mp3/story11.mp3</snd>
+                <snd>book8/reading/unit4/3/mp3/story12.mp3</snd>
+                <snd>book8/reading/unit4/3/mp3/story13.mp3</snd>
+                <snd>book8/reading/unit4/3/mp3/story14.mp3</snd>
+                <snd>book8/reading/unit4/3/mp3/story15.mp3</snd>
+                <snd>book8/reading/unit4/3/mp3/story16.mp3</snd>
+                <snd>book8/reading/unit4/3/mp3/story17.mp3</snd>
+                <snd>book8/reading/unit4/3/mp3/story18.mp3</snd>
+                <snd>book8/reading/unit4/3/mp3/story19.mp3</snd>
+                <snd>book8/reading/unit4/3/mp3/story20.mp3</snd>
+                <snd>book8/reading/unit4/3/mp3/story21.mp3</snd>
+                <snd>book8/reading/unit4/3/mp3/story22.mp3</snd>
+                <snd>book8/reading/unit4/3/mp3/story23.mp3</snd>
+            </item>
+        </items>
+    </unit>
+    <unit name="" title="Unit 5">
+		<!--name:模块标记，如:a,b,c,start-->
+        <items name="start">
+			<!--title:内容-->
+            <item title="1. Let&apos;s act">
+				<!--包含的所有声音，根据播放顺序加入节点-->
+                <snd>book8/reading/unit5/4/mp3/act1.mp3</snd>
+                <snd>book8/reading/unit5/4/mp3/act2.mp3</snd>
+                <snd>book8/reading/unit5/4/mp3/act3.mp3</snd>
+                <snd>book8/reading/unit5/4/mp3/act4.mp3</snd>
+                <snd>book8/reading/unit5/4/mp3/act5.mp3</snd>
+                <snd>book8/reading/unit5/4/mp3/act6.mp3</snd>
+                <snd>book8/reading/unit5/4/mp3/act7.mp3</snd>
+                <snd>book8/reading/unit5/4/mp3/act8.mp3</snd>
+            </item>
+        </items>
+        <items name="a">
+            <item title="1. Let's talk">
+                <snd>book8/reading/unit5/1/mp3/talk1.mp3</snd>
+                <snd>book8/reading/unit5/1/mp3/talk2.mp3</snd>
+                <snd>book8/reading/unit5/1/mp3/talk3.mp3</snd>
+                <snd>book8/reading/unit5/1/mp3/talk4.mp3</snd>
+                <snd>book8/reading/unit5/1/mp3/talk5.mp3</snd>
+                <snd>book8/reading/unit5/1/mp3/talk6.mp3</snd>
+                <snd>book8/reading/unit5/1/mp3/talk7.mp3</snd>
+                <snd>book8/reading/unit5/1/mp3/talk8.mp3</snd>
+                <snd>book8/reading/unit5/1/mp3/talk9.mp3</snd>
+                <snd>book8/reading/unit5/1/mp3/talk10.mp3</snd>
+            </item>
+            <item title="2. Let&apos;s play">
+                <snd>book8/reading/unit5/1/mp3/play1.mp3</snd>
+                <snd>book8/reading/unit5/1/mp3/play2.mp3</snd>
+                <snd>book8/reading/unit5/1/mp3/play3.mp3</snd>
+                <snd>book8/reading/unit5/1/mp3/play4.mp3</snd>
+                <snd>book8/reading/unit5/1/mp3/play5.mp3</snd>
+            </item>
+            <item title="3. Let&apos;s learn">
+                <snd>book8/reading/unit5/1/mp3/learn6.mp3</snd>
+                <snd>book8/reading/unit5/1/mp3/learn7.mp3</snd>
+                <snd>book8/reading/unit5/1/mp3/learn8.mp3</snd>
+            </item>
+        </items>
+        <items name="b">
+            <item title="1. Let's talk">
+                <snd>book8/reading/unit5/2/mp3/talk1.mp3</snd>
+                <snd>book8/reading/unit5/2/mp3/talk2.mp3</snd>
+                <snd>book8/reading/unit5/2/mp3/talk3.mp3</snd>
+                <snd>book8/reading/unit5/2/mp3/talk4.mp3</snd>
+                <snd>book8/reading/unit5/2/mp3/talk5.mp3</snd>
+                <snd>book8/reading/unit5/2/mp3/talk6.mp3</snd>
+                <snd>book8/reading/unit5/2/mp3/talk7.mp3</snd>
+                <snd>book8/reading/unit5/2/mp3/talk8.mp3</snd>
+                <snd>book8/reading/unit5/2/mp3/talk9.mp3</snd>
+            </item>
+            <item title="3. Let&apos;s learn">
+                <snd>book8/reading/unit5/2/mp3/learn7.mp3</snd>
+                <snd>book8/reading/unit5/2/mp3/learn8.mp3</snd>
+                <snd>book8/reading/unit5/2/mp3/learn9.mp3</snd>
+            </item>
+        </items>
+        <items name="c">
+            <item title="1. Story time">
+                <snd>book8/reading/unit5/3/mp3/story1.mp3</snd>
+                <snd>book8/reading/unit5/3/mp3/story2.mp3</snd>
+                <snd>book8/reading/unit5/3/mp3/story3.mp3</snd>
+                <snd>book8/reading/unit5/3/mp3/story4.mp3</snd>
+                <snd>book8/reading/unit5/3/mp3/story5.mp3</snd>
+                <snd>book8/reading/unit5/3/mp3/story6.mp3</snd>
+                <snd>book8/reading/unit5/3/mp3/story7.mp3</snd>
+                <snd>book8/reading/unit5/3/mp3/story8.mp3</snd>
+                <snd>book8/reading/unit5/3/mp3/story9.mp3</snd>
+                <snd>book8/reading/unit5/3/mp3/story10.mp3</snd>
+                <snd>book8/reading/unit5/3/mp3/story11.mp3</snd>
+                <snd>book8/reading/unit5/3/mp3/story12.mp3</snd>
+                <snd>book8/reading/unit5/3/mp3/story13.mp3</snd>
+            </item>
+        </items>
+    </unit>
+    <unit name="" title="Unit 6">
+		<!--name:模块标记，如:a,b,c,start-->
+        <items name="start">
+			<!--title:内容-->
+            <item title="1. Let&apos;s act">
+				<!--包含的所有声音，根据播放顺序加入节点-->
+                <snd>book8/reading/unit6/4/mp3/act1.mp3</snd>
+                <snd>book8/reading/unit6/4/mp3/act2.mp3</snd>
+                <snd>book8/reading/unit6/4/mp3/act3.mp3</snd>
+                <snd>book8/reading/unit6/4/mp3/act4.mp3</snd>
+                <snd>book8/reading/unit6/4/mp3/act5.mp3</snd>
+                <snd>book8/reading/unit6/4/mp3/act6.mp3</snd>
+                <snd>book8/reading/unit6/4/mp3/act7.mp3</snd>
+                <snd>book8/reading/unit6/4/mp3/act8.mp3</snd>
+                <snd>book8/reading/unit6/4/mp3/act9.mp3</snd>
+            </item>
+        </items>
+        <items name="a">
+            <item title="1. Let's talk">
+                <snd>book8/reading/unit6/1/mp3/talk1.mp3</snd>
+                <snd>book8/reading/unit6/1/mp3/talk2.mp3</snd>
+                <snd>book8/reading/unit6/1/mp3/talk3.mp3</snd>
+                <snd>book8/reading/unit6/1/mp3/talk4.mp3</snd>
+                <snd>book8/reading/unit6/1/mp3/talk5.mp3</snd>
+                <snd>book8/reading/unit6/1/mp3/talk6.mp3</snd>
+                <snd>book8/reading/unit6/1/mp3/talk7.mp3</snd>
+                <snd>book8/reading/unit6/1/mp3/talk8.mp3</snd>
+                <snd>book8/reading/unit6/1/mp3/talk9.mp3</snd>
+                <snd>book8/reading/unit6/1/mp3/talk10.mp3</snd>
+                <snd>book8/reading/unit6/1/mp3/talk11.mp3</snd>
+                <snd>book8/reading/unit6/1/mp3/talk12.mp3</snd>
+                <snd>book8/reading/unit6/1/mp3/talk13.mp3</snd>
+            </item>
+            <item title="2. Let&apos;s play">
+                <snd>book8/reading/unit6/1/mp3/play1.mp3</snd>
+                <snd>book8/reading/unit6/1/mp3/play2.mp3</snd>
+                <snd>book8/reading/unit6/1/mp3/play3.mp3</snd>
+                <snd>book8/reading/unit6/1/mp3/play4.mp3</snd>
+            </item>
+            <item title="3. Let&apos;s learn">
+                <snd>book8/reading/unit6/1/mp3/learn5.mp3</snd>
+                <snd>book8/reading/unit6/1/mp3/learn6.mp3</snd>
+                <snd>book8/reading/unit6/1/mp3/learn7.mp3</snd>
+                <snd>book8/reading/unit6/1/mp3/learn8.mp3</snd>
+            </item>
+        </items>
+        <items name="b">
+            <item title="1. Let's talk">
+                <snd>book8/reading/unit6/2/mp3/talk1.mp3</snd>
+                <snd>book8/reading/unit6/2/mp3/talk2.mp3</snd>
+                <snd>book8/reading/unit6/2/mp3/talk3.mp3</snd>
+                <snd>book8/reading/unit6/2/mp3/talk4.mp3</snd>
+                <snd>book8/reading/unit6/2/mp3/talk5.mp3</snd>
+                <snd>book8/reading/unit6/2/mp3/talk6.mp3</snd>
+                <snd>book8/reading/unit6/2/mp3/talk7.mp3</snd>
+                <snd>book8/reading/unit6/2/mp3/talk8.mp3</snd>
+                <snd>book8/reading/unit6/2/mp3/talk9.mp3</snd>
+                <snd>book8/reading/unit6/2/mp3/talk10.mp3</snd>
+            </item>
+            <item title="3. Let&apos;s learn">
+                <snd>book8/reading/unit6/2/mp3/learn9.mp3</snd>
+                <snd>book8/reading/unit6/2/mp3/learn10.mp3</snd>
+                <snd>book8/reading/unit6/2/mp3/learn11.mp3</snd>
+            </item>
+        </items>
+        <items name="c">
+            <item title="1. Story time">
+                <snd>book8/reading/unit6/3/mp3/story1.mp3</snd>
+                <snd>book8/reading/unit6/3/mp3/story2.mp3</snd>
+                <snd>book8/reading/unit6/3/mp3/story3.mp3</snd>
+                <snd>book8/reading/unit6/3/mp3/story4.mp3</snd>
+                <snd>book8/reading/unit6/3/mp3/story5.mp3</snd>
+                <snd>book8/reading/unit6/3/mp3/story6.mp3</snd>
+                <snd>book8/reading/unit6/3/mp3/story7.mp3</snd>
+                <snd>book8/reading/unit6/3/mp3/story8.mp3</snd>
+                <snd>book8/reading/unit6/3/mp3/story9.mp3</snd>
+                <snd>book8/reading/unit6/3/mp3/story10.mp3</snd>
+                <snd>book8/reading/unit6/3/mp3/story11.mp3</snd>
+                <snd>book8/reading/unit6/3/mp3/story12.mp3</snd>
+                <snd>book8/reading/unit6/3/mp3/story13.mp3</snd>
+                <snd>book8/reading/unit6/3/mp3/story14.mp3</snd>
+            </item>
+        </items>
+    </unit>
+    <unit name="" title="Recycle 2">
+		<!--name:模块标记，如:a,b,c,start-->
+        <items name="start">
+			<!--title:内容-->
+            <item title="1. Read aloud">
+				<!--包含的所有声音，根据播放顺序加入节点-->
+                <snd>book8/reading/unit8/4/mp3/read1.mp3</snd>
+                <snd>book8/reading/unit8/4/mp3/read2.mp3</snd>
+                <snd>book8/reading/unit8/4/mp3/read3.mp3</snd>
+                <snd>book8/reading/unit8/4/mp3/read4.mp3</snd>
+                <snd>book8/reading/unit8/4/mp3/read5.mp3</snd>
+                <snd>book8/reading/unit8/4/mp3/read6.mp3</snd>
+                <snd>book8/reading/unit8/4/mp3/read7.mp3</snd>
+                <snd>book8/reading/unit8/4/mp3/read8.mp3</snd>
+                <snd>book8/reading/unit8/4/mp3/read9.mp3</snd>
+                <snd>book8/reading/unit8/4/mp3/read10.mp3</snd>
+                <snd>book8/reading/unit8/4/mp3/read11.mp3</snd>
+                <snd>book8/reading/unit8/4/mp3/read12.mp3</snd>
+                <snd>book8/reading/unit8/4/mp3/read13.mp3</snd>
+                <snd>book8/reading/unit8/4/mp3/read14.mp3</snd>
+                <snd>book8/reading/unit8/4/mp3/read15.mp3</snd>
+                <snd>book8/reading/unit8/4/mp3/read16.mp3</snd>
+                <snd>book8/reading/unit8/4/mp3/read17.mp3</snd>
+                <snd>book8/reading/unit8/4/mp3/read18.mp3</snd>
+                <snd>book8/reading/unit8/4/mp3/read19.mp3</snd>
+            </item>
+        </items>
+    </unit>
+</units>

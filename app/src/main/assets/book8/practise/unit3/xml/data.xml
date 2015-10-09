@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<top name="unit3">Unit 3</top>
+	<mod title="本模块为课后同步练习，请在光盘配套的纸质手册上完成。&#x000A;"></mod>
+	<items id="1" title="Part A&#x000A;I. 将下列单词写在相应的图片下。" type="ROW" column="1">
+		<item id="1.">cool</item>
+		<item id="2.">warm</item>
+		<item id="3.">windy</item>
+		<item id="4.">cloudy</item>
+		<item id="5.">snowy</item>
+		<item id="6.">rainy</item>
+	</items>
+	<items id="2" title="II. 连词成句，注意大小写及标点符号。" type="ROW" column="1">
+		<item id="1.">What's the weather like in London?</item>
+		<item id="2.">It's cloudy in Singapore.</item>
+		<item id="3.">Can I make a snowman?</item>
+		<item id="4.">Is it cold in Moscow?</item>
+		<item id="5.">This is the weather report.</item>
+	</items>
+	<items id="3" title="Part B&#x000A;II. 中英文连线" type="ROW" column="5">
+		<item id="1." >C</item>
+		<item id="2." >E</item>
+		<item id="3." >A</item>
+		<item id="4." >D</item>
+		<item id="5." >B</item>
+	</items>
+	<items id="4" title="III. 情境问答。" type="ROW" column="5">
+		<item id="1." >B</item>
+		<item id="2." >A</item>
+		<item id="3." >B</item>
+		<item id="4." >A</item>
+		<item id="5." >B</item>
+	</items>
+	<items id="5" title="Part C&#x000A;I. 找一找，圈一圈。" type="ROW" column="5">
+		<item id="1.">sunny</item>
+		<item id="2.">cool</item>
+		<item id="3.">snowy</item>
+		<item id="4.">warm</item>
+		<item id="5.">windy</item>
+	</items>
+	<items id="6" title="II. 选择与图片相符的单词。" type="ROW"  column="4"> 
+		<item id="1.">A</item>
+		<item id="2.">A</item>
+		<item id="3.">B</item>
+		<item id="4.">A</item>
+	</items>
+	<items id="7" title="III. 选出与所给单词不同类的一项。" type="ROW" column="5">
+		<item id="1." >B</item>
+		<item id="2." >B</item>
+		<item id="3." >A</item>
+		<item id="4." >B</item>
+		<item id="5." >A</item>
+	</items>
+</data>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<items>
+		<!--id:句子序号，一个句点为一句-->
+		<item id="1" sound="mp3/learn7.mp3" />
+		<item id="2" sound="mp3/learn8.mp3" />
+		<item id="3" sound="mp3/learn9.mp3" />
+		<item id="4" sound="mp3/learn10.mp3" />
+	</items>
+</data>
